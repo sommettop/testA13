@@ -1,6 +1,7 @@
-# testA13
-Ce test est un test dans le cadre du cours A13;
+# TEST A13
+Ce dépôt est un test dans le cadre du cours A13;
 
+<img src="logo.jpg" alt="logo de l'institution" width="100px"/>
 
 ## GitHub
 1. initialiser un dépôt
